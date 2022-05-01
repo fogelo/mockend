@@ -1,14 +1,14 @@
 {
-    'User': {},
-    'Post': {},
-    'Comment': {
-        'name': {
-            'string': [
-                'Thor',
-                'Loki'
+    "User": {},
+    "Post": {},
+    "Comment": {
+        "name": {
+            "string": [
+                "Thor",
+                "Loki"
             ]
         }
     },
-    'Person': {},
-    'City': {}
+    "Person": {},
+    "City": {}
 }
