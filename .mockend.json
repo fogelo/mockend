@@ -1,7 +1,14 @@
 {
-  "User": {},
-  "Post": {},
-  "Comment": {},
-  "Person": {},
-  "City": {}
+    'User': {},
+    'Post': {},
+    'Comment': {
+        'name': {
+            'string': [
+                'Thor',
+                'Loki'
+            ]
+        }
+    },
+    'Person': {},
+    'City': {}
 }
